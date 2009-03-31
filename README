@@ -1,0 +1,9 @@
+To add these plugins to your thoth blog, run this in the blog root:
+
+  git submodule add git://github.com/jaygooby/thoth-plugins.git plugins
+
+and then:
+
+  git submodule init; git submodule update
+
+to pull down the plugins. You only need to run the init once. After that, all you need to do is update whenever you want to update the versions of the plugin to the current ones on github.
