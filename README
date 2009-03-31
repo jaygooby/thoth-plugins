@@ -1,6 +1,6 @@
 To add these plugins to your thoth blog, run this in the blog root:
 
-  git submodule add git://github.com/jaygooby/thoth-plugins.git plugins
+  git submodule add git://github.com/jaygooby/thoth-plugins.git plugin
 
 and then:
 
